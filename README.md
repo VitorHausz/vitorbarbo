@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @vitorbarbo
+
 - 👀 I’m interested in Front - End programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+- 🌱 I’m currently learning Angular
+
+- 💞️ I’m looking to collaborate with:
+        - HTML
+        - CSS
+        - SCSS
+        - SASS
+        - JS
+        - TS
+        - ANGULAR
+         
 - 📫 How to reach me :
         - https://www.linkedin.com/in/vitor-barbosa-a06394206/    
 
