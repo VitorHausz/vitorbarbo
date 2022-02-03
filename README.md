@@ -14,7 +14,8 @@
         - ANGULAR
          
 - 📫 How to reach me :
-        - https://www.linkedin.com/in/vitor-barbosa-a06394206/    
+        - https://www.linkedin.com/in/vitor-barbosa-a06394206/
+        - https://github.com/VitorHausz (company profile with commits from 05/2021 to 02/2022)    
 
 <!---
 vitorbarbo/vitorbarbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
